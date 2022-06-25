@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TomMakesThings/TomMakesThings/blob/main/WelcomeText.gif" width="35%">
+  <img src="https://github.com/TomMakesThings/TomMakesThings/blob/main/WelcomeText.gif" width="40%">
   <br>
   <br>
   :octocat:
