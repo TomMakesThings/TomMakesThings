@@ -1,1 +1,1 @@
-### Hi, welcome to my GitHub :octocat:
+<img src="https://github.com/TomMakesThings/TomMakesThings/blob/main/WelcomeText.gif">
